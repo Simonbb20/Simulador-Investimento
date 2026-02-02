@@ -33,5 +33,5 @@ A planilha permite visualizar o poder dos juros compostos ao longo do tempo, aju
 ---
 
 ## 👤 Autor
-Desenvolvido por [Seu Nome Aqui].
-Conecte-se comigo no [LinkedIn](seu-link-do-linkedin).
+Desenvolvido por Simone Daloz 
+Conecte-se comigo no [LinkedIn/Simonedaloz 
